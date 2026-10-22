@@ -17,7 +17,7 @@ Site estático em HTML, CSS e JavaScript, pronto para publicar no GitHub Pages. 
 
 ## Como personalizar
 
-Abra `index.html` e procure os textos de exemplo, como **“A confirmar”**, **“A definir”** e as instruções que começam com “Informe...”. Substitua pelos dados confirmados da viagem.
+Abra `index.html` e edite as seções quando houver novas confirmações. O roteiro informado até agora já está incluído; valores, restaurante de sábado, contatos e detalhes de retorno permanecem em aberto.
 
 - **Data, destino e participantes:** cartões no começo da página.
 - **Programação:** seção `id="programacao"`.
